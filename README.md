@@ -8,10 +8,10 @@ This repository contains the material corresponding to the webinar/Hands-on: _GP
 
 Material available in \*.ipynb (Jupyter NoteBook) format. There are 8 notebooks in this repository:
 
-## [1-Introduction.ipynb](https://colab.research.google.com/drive/1_suB4ZeCVqHzN0rESq-ywocdlWMSAySH?usp=sharing)
+## [1-Introduction.ipynb]
 The introductory notebook contains some of the webinar's content, and through some basic commands, we will be able to characterize the available multi-GPU execution environment.
 
-## [2-NCCL-P2P.ipynb](https://colab.research.google.com/drive/1xFEMCgCj2lJ5TdOX2TZdbKhMpr3yPL2R?usp=sharing)
+## [2-NCCL-P2P.ipynb]
 This notebook will introduce peer-to-peer direct memory access on GPUs through the NCCL API.
 
 ## [3-CUDAWARE-MPI.ipynb]
