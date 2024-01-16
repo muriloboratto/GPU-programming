@@ -8,7 +8,7 @@ This repository contains the material corresponding to the webinar/Hands-on: _GP
 
 Material available in \*.ipynb (Jupyter NoteBook) format. There are 8 notebooks in this repository:
 
-## [1-Introduction.ipynb]
+## [1-Introduction.ipynb](https://drive.google.com/file/d/1_zO2X7NBBinrXhycOz7IBgEi6gr_M-Vi/view?usp=sharing)
 The introductory notebook contains some of the webinar's content, and through some basic commands, we will be able to characterize the available multi-GPU execution environment.
 
 ## [2-NCCL-P2P.ipynb]
