@@ -1,6 +1,6 @@
 # Ignore the node_modules directory
 *_slides+extra-material
-*_solution/
+_solution/
 *_JD0008/
 *_JD0009/
 *_JD0045/
